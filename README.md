@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Inspired-0/Inspired-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Владимир Тарасенко
 
-Here are some ideas to get you started:
+**AI Product Manager · AI Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+Развиваю AI-продукты от гипотезы до запуска. Проектирую LLM-сервисы, RAG и агентские системы, пишу на Python и SQL. Работаю с B2B SaaS, финтехом и банковскими интеграциями.
+
+### Проекты
+
+- **AiLawyer** — сервис для подготовки юридических документов
+- **DemoAnalysis** — анализ встреч и поиск по корпоративным данным
+- **PersonalAI** — личный AI-агент с интерфейсом в Telegram
+
+### Стек
+
+`Python` · `SQL` · `LLM` · `RAG` · `AI-агенты` · `LangChain` · `LangFlow` · `CrewAI` · `n8n`
+
+### Контакты
+
+[Telegram](https://t.me/quidcumfacie) · [Email](mailto:barnaky28@gmail.com)
