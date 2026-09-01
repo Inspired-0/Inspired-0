@@ -2,7 +2,7 @@
 
 # Владимир Тарасенко
 
-**AI Product Manager · AI Engineer**
+**Product Manager · AI Engineer**
 
 </div>
 
@@ -22,7 +22,7 @@
 
 Собирает записи встреч, проверяет оценку модели и сохраняет результат в рабочую таблицу. Агент в Mattermost ищет данные по встречам и помогает увидеть повторяющиеся боли, возражения и слабые места команды.
 
-`Python` · `SQLite` · `Pydantic` · `Mattermost` · `LLM API` · `pytest`
+`Python` · `SQL` · `Pydantic` · `Mattermost` · `LLM API` · `pytest`
 
 [Подробнее о проекте](case-studies/demo-analysis.md) · Код закрыт
 
