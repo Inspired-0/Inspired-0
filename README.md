@@ -32,7 +32,7 @@
 
 `TypeScript` · `React` · `Vite` · `Express` · `Zod` · `LLM API`
 
-[Открыть код](https://github.com/Inspired-0/skincheck-ai) · **Открытый код**
+[Открыть код](https://github.com/Inspired-0/skincheck-ai) · Открытый код
 
 ### Telegram Claude Agent
 
@@ -40,7 +40,7 @@
 
 `Python` · `aiogram` · `Claude CLI` · `pytest`
 
-[Открыть код](https://github.com/Inspired-0/telegram-claude-agent) · **Открытый код**
+[Открыть код](https://github.com/Inspired-0/telegram-claude-agent) · Открытый код
 
 ### AI Legal Docs
 
@@ -48,7 +48,7 @@
 
 `Python` · `DOCX` · `docxtpl` · `pytest` · `LLM API`
 
-[Открыть код](https://github.com/Inspired-0/ai-legal-docs) · **Открытый код**
+[Открыть код](https://github.com/Inspired-0/ai-legal-docs) · Открытый код
 
 ## Компетенции
 
